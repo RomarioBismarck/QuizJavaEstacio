@@ -1,0 +1,50 @@
+**O que pensamos para o projeto:**
+
+**Nome da Escola:** Centro Educacional Novo Horizonte  
+**Faixa etária dos alunos:** 10 a 15 anos  
+**Público-alvo:** Alunos do 1º ao 5º ano ou do 6º ao 9º ano
+
+### **Disciplinas**
+As disciplinas que pretendemos incluir no quiz são:
+
+- Português (a definir detalhes)  
+- Matemática (a definir detalhes)  
+- Robótica (a definir detalhes)  
+- História  
+- Geografia  
+- Ciências  
+
+**Estrutura das questões por matéria:**  
+- 10 questões fáceis  
+- 10 questões de nível médio  
+- 10 questões difíceis  
+
+**Formato das questões:**  
+- Múltipla escolha  
+
+### **Critérios de Avaliação**
+1. **Critério 1 (Principal):**  
+   O desempenho do aluno será avaliado pelo percentual de acerto, separado por matérias.  
+   - **Matemática:** dividida em 3 níveis de dificuldade:
+     - Nível 1: questões fáceis
+     - Nível 2: questões de nível médio
+     - Nível 3: questões difíceis  
+   O aluno pode responder a um número determinado de questões de cada nível, de forma randomizada ou escolhida manualmente. O sistema calculará um percentual para indicar o nível de domínio do aluno em cada matéria.
+
+2. **Critério 2:**  
+   Estilo **"Show do Milhão"**:  
+   Serão oferecidas questões de diferentes matérias, com aumento de nível de dificuldade conforme o aluno avança. O aluno terá 2 ou 3 opções de ajuda/dica ao longo do percurso, como em um jogo de perguntas e respostas.
+
+### **Gamificação**  
+A gamificação do sistema poderá incluir uma das seguintes opções para motivação dos alunos:  
+- Ranking de desempenho  
+- Selo ou medalha no perfil do estudante  
+- Moldura especial para o perfil do aluno  
+- Troféu por conquistas específicas  
+
+### **O que precisamos de informações da escola:**
+
+Para criar o banco de questões adequado, precisamos dos **tópicos por matéria**. Para isso, pedimos que a escola envie uma foto do índice de temas de cada matéria, conforme consta no livro de cada turma.
+
+Por favor, forneçam o índice de temas de todas as disciplinas mencionadas (Português, Matemática, Robótica, História, Geografia e Ciências), de acordo com o material didático utilizado nas turmas envolvidas.
+
